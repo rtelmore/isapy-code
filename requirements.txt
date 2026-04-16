@@ -1,0 +1,40 @@
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+sportypy>=1.0.0
+
+# Statistical Modeling
+statsmodels>=0.14.0
+scikit-learn>=1.2.0
+pygam>=0.9.0
+
+# Sports Data APIs
+isapy-data>=0.1.6
+pybaseball>=2.2.0
+nba-api>=1.2.0
+nfl-data-py>=0.3.0
+nhl-api-py>=3.1.0
+
+# Web Scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+lxml>=4.9.0
+
+# Web Applications
+streamlit>=1.25.0
+dash>=2.14.0
+shiny>=0.10.0
+
+# Optimization
+pulp>=2.7.0
+
+# Jupyter Support (optional, for notebook users)
+jupyter>=1.0.0
+ipykernel>=6.23.0
+jupyter-cache>=1.0.0
