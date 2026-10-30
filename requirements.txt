@@ -15,7 +15,7 @@ scikit-learn>=1.2.0
 pygam>=0.9.0
 
 # Sports Data APIs
-isapy-data>=0.1.6
+isapy-data>=0.1.7
 pybaseball>=2.2.0
 nba-api>=1.2.0
 nfl-data-py>=0.3.0
